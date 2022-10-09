@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<math.h>
 
 // round off till three decimal places
 // Disadvantage it can't print variable point values stated by the user see at line no. 41
